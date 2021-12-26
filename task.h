@@ -15,7 +15,6 @@ extern const uint8_t tasksNo;
 extern task_t task[];
 
 
-
 extern  void T1(void);
 extern  void T2(void);
 extern  void T3(void);
